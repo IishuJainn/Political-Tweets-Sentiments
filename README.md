@@ -9,6 +9,7 @@ This project is aimed at performing sentiment analysis on tweets related to poli
 The project takes tweets related to Mr. Narendra Modi, Mr. Rahul Gandhi, and Mr. Arvind Kejriwal and performs sentiment analysis on them to find the public's perception towards these leaders.
 
 ## Data Collection
+"https://www.kaggle.com/datasets/soumendraprasad/201k-tweets-on-mrmodimrrahulmrkejrielecanal"
 The data is collected from a dataset named "201k Tweets on Mr. Modi, Mr. Rahul, Mr. Kejri, and EleCanal" available on Kaggle. The dataset contains tweets related to the mentioned political leaders and has been collected between 2017 and 2021.
 
 ## Data Cleaning and Preprocessing
