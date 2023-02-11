@@ -1,4 +1,4 @@
-![poli](https://user-images.githubusercontent.com/102272183/218268639-3f090a56-b52c-4533-a476-80407a46cb07.png)
+![polit](https://user-images.githubusercontent.com/102272183/218268763-65d20bdc-9946-4ae4-a3a7-f8e2448c2774.png)
 
 
 # Sentiment Analysis of Political Leaders in India
