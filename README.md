@@ -1,3 +1,6 @@
+![poli](https://user-images.githubusercontent.com/102272183/218268639-3f090a56-b52c-4533-a476-80407a46cb07.png)
+
+
 # Sentiment Analysis of Political Leaders in India
 
 ## Introduction
